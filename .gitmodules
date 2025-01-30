@@ -1,0 +1,264 @@
+[submodule "Bank-of-Flatiron"]
+	path = Bank-of-Flatiron
+	url = https://github.com/Mwaurasammy/Bank-of-Flatiron.git
+[submodule "Bot_army"]
+	path = Bot_army
+	url = https://github.com/Mwaurasammy/Bot_army.git
+[submodule "Coffee-Shop-Object-Relationships-"]
+	path = Coffee-Shop-Object-Relationships-
+	url = https://github.com/Mwaurasammy/Coffee-Shop-Object-Relationships-.git
+[submodule "flask"]
+	path = flask
+	url = https://github.com/Mwaurasammy/flask.git
+[submodule "github-readme-stats"]
+	path = github-readme-stats
+	url = https://github.com/Mwaurasammy/github-readme-stats.git
+[submodule "job_app_manager"]
+	path = job_app_manager
+	url = https://github.com/Mwaurasammy/job_app_manager.git
+[submodule "js-tdd-codealong"]
+	path = js-tdd-codealong
+	url = https://github.com/Mwaurasammy/js-tdd-codealong.git
+[submodule "JS_projects"]
+	path = JS_projects
+	url = https://github.com/Mwaurasammy/JS_projects.git
+[submodule "Leetcodes"]
+	path = Leetcodes
+	url = https://github.com/Mwaurasammy/Leetcodes.git
+[submodule "moringabox_frontend"]
+	path = moringabox_frontend
+	url = https://github.com/Mwaurasammy/moringabox_frontend.git
+[submodule "Mwaurasammy"]
+	path = Mwaurasammy
+	url = https://github.com/Mwaurasammy/Mwaurasammy.git
+[submodule "myAnime"]
+	path = myAnime
+	url = https://github.com/Mwaurasammy/myAnime.git
+[submodule "my_bank_app"]
+	path = my_bank_app
+	url = https://github.com/Mwaurasammy/my_bank_app.git
+[submodule "my_portfolio"]
+	path = my_portfolio
+	url = https://github.com/Mwaurasammy/my_portfolio.git
+[submodule "p3-oo-one-to-many-lab"]
+	path = p3-oo-one-to-many-lab
+	url = https://github.com/Mwaurasammy/p3-oo-one-to-many-lab.git
+[submodule "Personal-Expense-Tracker"]
+	path = Personal-Expense-Tracker
+	url = https://github.com/Mwaurasammy/Personal-Expense-Tracker.git
+[submodule "phase-0-completing-assignments-codegrade"]
+	path = phase-0-completing-assignments-codegrade
+	url = https://github.com/Mwaurasammy/phase-0-completing-assignments-codegrade.git
+[submodule "phase-0-css-fundamentals-lab"]
+	path = phase-0-css-fundamentals-lab
+	url = https://github.com/Mwaurasammy/phase-0-css-fundamentals-lab.git
+[submodule "phase-0-css-graffiti-lab"]
+	path = phase-0-css-graffiti-lab
+	url = https://github.com/Mwaurasammy/phase-0-css-graffiti-lab.git
+[submodule "phase-0-css-intro-lab"]
+	path = phase-0-css-intro-lab
+	url = https://github.com/Mwaurasammy/phase-0-css-intro-lab.git
+[submodule "phase-0-css-issue-bot-9000"]
+	path = phase-0-css-issue-bot-9000
+	url = https://github.com/Mwaurasammy/phase-0-css-issue-bot-9000.git
+[submodule "phase-0-css-kitten-lab"]
+	path = phase-0-css-kitten-lab
+	url = https://github.com/Mwaurasammy/phase-0-css-kitten-lab.git
+[submodule "phase-0-css-rainbow-lab"]
+	path = phase-0-css-rainbow-lab
+	url = https://github.com/Mwaurasammy/phase-0-css-rainbow-lab.git
+[submodule "phase-0-html-album-cover-lab"]
+	path = phase-0-html-album-cover-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-album-cover-lab.git
+[submodule "phase-0-html-document-structure-lab"]
+	path = phase-0-html-document-structure-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-document-structure-lab.git
+[submodule "phase-0-html-experiencing-html-lab"]
+	path = phase-0-html-experiencing-html-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-experiencing-html-lab.git
+[submodule "phase-0-html-images-lab"]
+	path = phase-0-html-images-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-images-lab.git
+[submodule "phase-0-html-issue-bot-9000-lab"]
+	path = phase-0-html-issue-bot-9000-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-issue-bot-9000-lab.git
+[submodule "phase-0-html-link-tag-with-href"]
+	path = phase-0-html-link-tag-with-href
+	url = https://github.com/Mwaurasammy/phase-0-html-link-tag-with-href.git
+[submodule "phase-0-html-lists-lab"]
+	path = phase-0-html-lists-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-lists-lab.git
+[submodule "phase-0-html-riyadh-blog-lab"]
+	path = phase-0-html-riyadh-blog-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-riyadh-blog-lab.git
+[submodule "phase-0-html-tables-lab"]
+	path = phase-0-html-tables-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-tables-lab.git
+[submodule "phase-0-html-tag-lab"]
+	path = phase-0-html-tag-lab
+	url = https://github.com/Mwaurasammy/phase-0-html-tag-lab.git
+[submodule "phase-0-intro-to-js-2-array-lab"]
+	path = phase-0-intro-to-js-2-array-lab
+	url = https://github.com/Mwaurasammy/phase-0-intro-to-js-2-array-lab.git
+[submodule "phase-0-intro-to-js-2-looping-code-along"]
+	path = phase-0-intro-to-js-2-looping-code-along
+	url = https://github.com/Mwaurasammy/phase-0-intro-to-js-2-looping-code-along.git
+[submodule "phase-0-intro-to-js-2-objects-lab"]
+	path = phase-0-intro-to-js-2-objects-lab
+	url = https://github.com/Mwaurasammy/phase-0-intro-to-js-2-objects-lab.git
+[submodule "phase-0-javascript-events-acting-on-events-lab"]
+	path = phase-0-javascript-events-acting-on-events-lab
+	url = https://github.com/Mwaurasammy/phase-0-javascript-events-acting-on-events-lab.git
+[submodule "phase-0-javascript-events-event-listening-lab"]
+	path = phase-0-javascript-events-event-listening-lab
+	url = https://github.com/Mwaurasammy/phase-0-javascript-events-event-listening-lab.git
+[submodule "phase-0-the-dom-editing-lab"]
+	path = phase-0-the-dom-editing-lab
+	url = https://github.com/Mwaurasammy/phase-0-the-dom-editing-lab.git
+[submodule "phase-0-the-dom-modifying-elements-lab"]
+	path = phase-0-the-dom-modifying-elements-lab
+	url = https://github.com/Mwaurasammy/phase-0-the-dom-modifying-elements-lab.git
+[submodule "phase-1-arithmetic-lab"]
+	path = phase-1-arithmetic-lab
+	url = https://github.com/Mwaurasammy/phase-1-arithmetic-lab.git
+[submodule "phase-1-array-filter-method-lab"]
+	path = phase-1-array-filter-method-lab
+	url = https://github.com/Mwaurasammy/phase-1-array-filter-method-lab.git
+[submodule "phase-1-array-find-method-lab"]
+	path = phase-1-array-find-method-lab
+	url = https://github.com/Mwaurasammy/phase-1-array-find-method-lab.git
+[submodule "phase-1-array-map-method-lab"]
+	path = phase-1-array-map-method-lab
+	url = https://github.com/Mwaurasammy/phase-1-array-map-method-lab.git
+[submodule "phase-1-arrow-functions"]
+	path = phase-1-arrow-functions
+	url = https://github.com/Mwaurasammy/phase-1-arrow-functions.git
+[submodule "phase-1-control-flow-lab"]
+	path = phase-1-control-flow-lab
+	url = https://github.com/Mwaurasammy/phase-1-control-flow-lab.git
+[submodule "phase-1-destructuring-assignment"]
+	path = phase-1-destructuring-assignment
+	url = https://github.com/Mwaurasammy/phase-1-destructuring-assignment.git
+[submodule "phase-1-domcontentloaded"]
+	path = phase-1-domcontentloaded
+	url = https://github.com/Mwaurasammy/phase-1-domcontentloaded.git
+[submodule "phase-1-fetch-lab"]
+	path = phase-1-fetch-lab
+	url = https://github.com/Mwaurasammy/phase-1-fetch-lab.git
+[submodule "phase-1-first-class-functions"]
+	path = phase-1-first-class-functions
+	url = https://github.com/Mwaurasammy/phase-1-first-class-functions.git
+[submodule "phase-1-first-class-functions-lab"]
+	path = phase-1-first-class-functions-lab
+	url = https://github.com/Mwaurasammy/phase-1-first-class-functions-lab.git
+[submodule "phase-1-functions-lab"]
+	path = phase-1-functions-lab
+	url = https://github.com/Mwaurasammy/phase-1-functions-lab.git
+[submodule "phase-1-github-search-app"]
+	path = phase-1-github-search-app
+	url = https://github.com/Mwaurasammy/phase-1-github-search-app.git
+[submodule "phase-1-javascript-functions-continued"]
+	path = phase-1-javascript-functions-continued
+	url = https://github.com/Mwaurasammy/phase-1-javascript-functions-continued.git
+[submodule "phase-1-javascript-variables-lab"]
+	path = phase-1-javascript-variables-lab
+	url = https://github.com/Mwaurasammy/phase-1-javascript-variables-lab.git
+[submodule "phase-1-js-fetch-on-demand-with-forms"]
+	path = phase-1-js-fetch-on-demand-with-forms
+	url = https://github.com/Mwaurasammy/phase-1-js-fetch-on-demand-with-forms.git
+[submodule "phase-1-object-ball"]
+	path = phase-1-object-ball
+	url = https://github.com/Mwaurasammy/phase-1-object-ball.git
+[submodule "phase-1-practice-dog-ceo"]
+	path = phase-1-practice-dog-ceo
+	url = https://github.com/Mwaurasammy/phase-1-practice-dog-ceo.git
+[submodule "phase-1-practice-interacting-with-the-dom"]
+	path = phase-1-practice-interacting-with-the-dom
+	url = https://github.com/Mwaurasammy/phase-1-practice-interacting-with-the-dom.git
+[submodule "phase-1-practice-toy-tale"]
+	path = phase-1-practice-toy-tale
+	url = https://github.com/Mwaurasammy/phase-1-practice-toy-tale.git
+[submodule "phase-1-review-strings-lab"]
+	path = phase-1-review-strings-lab
+	url = https://github.com/Mwaurasammy/phase-1-review-strings-lab.git
+[submodule "phase-1-scope-lab"]
+	path = phase-1-scope-lab
+	url = https://github.com/Mwaurasammy/phase-1-scope-lab.git
+[submodule "phase-1-stitching-together-the-three-pillars"]
+	path = phase-1-stitching-together-the-three-pillars
+	url = https://github.com/Mwaurasammy/phase-1-stitching-together-the-three-pillars.git
+[submodule "phase-1-tasklister-mini-project"]
+	path = phase-1-tasklister-mini-project
+	url = https://github.com/Mwaurasammy/phase-1-tasklister-mini-project.git
+[submodule "phase-1-using-array-reduce"]
+	path = phase-1-using-array-reduce
+	url = https://github.com/Mwaurasammy/phase-1-using-array-reduce.git
+[submodule "phase-1-using-json-server-and-postman"]
+	path = phase-1-using-json-server-and-postman
+	url = https://github.com/Mwaurasammy/phase-1-using-json-server-and-postman.git
+[submodule "python-p3-class-attributes-and-methods-lab"]
+	path = python-p3-class-attributes-and-methods-lab
+	url = https://github.com/Mwaurasammy/python-p3-class-attributes-and-methods-lab.git
+[submodule "python-p3-conditional-statements"]
+	path = python-p3-conditional-statements
+	url = https://github.com/Mwaurasammy/python-p3-conditional-statements.git
+[submodule "python-p3-data-structures-lab"]
+	path = python-p3-data-structures-lab
+	url = https://github.com/Mwaurasammy/python-p3-data-structures-lab.git
+[submodule "python-p3-debugging-with-ipdb"]
+	path = python-p3-debugging-with-ipdb
+	url = https://github.com/Mwaurasammy/python-p3-debugging-with-ipdb.git
+[submodule "python-p3-functions"]
+	path = python-p3-functions
+	url = https://github.com/Mwaurasammy/python-p3-functions.git
+[submodule "python-p3-loops"]
+	path = python-p3-loops
+	url = https://github.com/Mwaurasammy/python-p3-loops.git
+[submodule "python-p3-pytest"]
+	path = python-p3-pytest
+	url = https://github.com/Mwaurasammy/python-p3-pytest.git
+[submodule "python-p3-reading-python-error-messages"]
+	path = python-p3-reading-python-error-messages
+	url = https://github.com/Mwaurasammy/python-p3-reading-python-error-messages.git
+[submodule "python-p3-running-python-code"]
+	path = python-p3-running-python-code
+	url = https://github.com/Mwaurasammy/python-p3-running-python-code.git
+[submodule "python-p4-chatterbox-lab"]
+	path = python-p4-chatterbox-lab
+	url = https://github.com/Mwaurasammy/python-p4-chatterbox-lab.git
+[submodule "python-p4-flask-application-structure"]
+	path = python-p4-flask-application-structure
+	url = https://github.com/Mwaurasammy/python-p4-flask-application-structure.git
+[submodule "python-p4-routing-and-views-lab"]
+	path = python-p4-routing-and-views-lab
+	url = https://github.com/Mwaurasammy/python-p4-routing-and-views-lab.git
+[submodule "python-p4-v2-flask-sqlalchemy-crud-shell"]
+	path = python-p4-v2-flask-sqlalchemy-crud-shell
+	url = https://github.com/Mwaurasammy/python-p4-v2-flask-sqlalchemy-crud-shell.git
+[submodule "python-p4-v2-flask-sqlalchemy-lab-2"]
+	path = python-p4-v2-flask-sqlalchemy-lab-2
+	url = https://github.com/Mwaurasammy/python-p4-v2-flask-sqlalchemy-lab-2.git
+[submodule "python-p4-web-servers-and-wsgi"]
+	path = python-p4-web-servers-and-wsgi
+	url = https://github.com/Mwaurasammy/python-p4-web-servers-and-wsgi.git
+[submodule "python-p4v3-flask-sqlalchemy-lab-1"]
+	path = python-p4v3-flask-sqlalchemy-lab-1
+	url = https://github.com/Mwaurasammy/python-p4v3-flask-sqlalchemy-lab-1.git
+[submodule "react-hooks-fetch-crud-code-along"]
+	path = react-hooks-fetch-crud-code-along
+	url = https://github.com/Mwaurasammy/react-hooks-fetch-crud-code-along.git
+[submodule "react-hooks-fetch-crud-lab"]
+	path = react-hooks-fetch-crud-lab
+	url = https://github.com/Mwaurasammy/react-hooks-fetch-crud-lab.git
+[submodule "react-hooks-forms-lab"]
+	path = react-hooks-forms-lab
+	url = https://github.com/Mwaurasammy/react-hooks-forms-lab.git
+[submodule "react-hooks-import-export-lab"]
+	path = react-hooks-import-export-lab
+	url = https://github.com/Mwaurasammy/react-hooks-import-export-lab.git
+[submodule "react-hooks-information-flow-lab"]
+	path = react-hooks-information-flow-lab
+	url = https://github.com/Mwaurasammy/react-hooks-information-flow-lab.git
+[submodule "react-hooks-jsx-lab"]
+	path = react-hooks-jsx-lab
+	url = https://github.com/Mwaurasammy/react-hooks-jsx-lab.git
